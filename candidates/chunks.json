@@ -1,0 +1,46 @@
+[
+ {
+  "chunk": "A",
+  "pages": [
+   9,
+   49
+  ],
+  "label": "第1章 进化 + 第2章 经济",
+  "file": "outputs\\humans-3.0-peter-nowak\\candidates\\chunk-A.txt",
+  "bytes": 72299,
+  "chars": 25392
+ },
+ {
+  "chunk": "B",
+  "pages": [
+   50,
+   112
+  ],
+  "label": "第3章 健康 + 第4章 工作 + 第5章 艺术",
+  "file": "outputs\\humans-3.0-peter-nowak\\candidates\\chunk-B.txt",
+  "bytes": 111586,
+  "chars": 40024
+ },
+ {
+  "chunk": "C",
+  "pages": [
+   113,
+   172
+  ],
+  "label": "第6章 关系 + 第7章 身份 + 第8章 信仰",
+  "file": "outputs\\humans-3.0-peter-nowak\\candidates\\chunk-C.txt",
+  "bytes": 103055,
+  "chars": 36278
+ },
+ {
+  "chunk": "D",
+  "pages": [
+   173,
+   229
+  ],
+  "label": "第9章 幸福 + 第10章 结论 + 致谢/注释",
+  "file": "outputs\\humans-3.0-peter-nowak\\candidates\\chunk-D.txt",
+  "bytes": 105519,
+  "chars": 44192
+ }
+]
