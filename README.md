@@ -28,14 +28,14 @@
 
 ```powershell
 # Windows：以 DSH / 兼容 ~/.dsh/skills 的 Agent 为例
-git clone <this-repo> humans-3.0-skills
-Copy-Item -Recurse -Force humans-3.0-skills\humans30-* "$env:USERPROFILE\.dsh\skills"
+git clone https://github.com/sunsunsuns/human3-skills.git
+Copy-Item -Recurse -Force human3-skills\humans30-* "$env:USERPROFILE\.dsh\skills"
 ```
 
 ```bash
 # macOS / Linux
-git clone <this-repo> humans-3.0-skills
-cp -r humans-3.0-skills/humans30-* ~/.dsh/skills/
+git clone https://github.com/sunsunsuns/human3-skills.git
+cp -r human3-skills/humans30-* ~/.dsh/skills/
 ```
 
 > 若你的 Agent 使用其他技能目录（如 `~/.claude/skills`），换成对应路径即可，SKILL.md 格式兼容。
